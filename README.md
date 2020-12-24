@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+24/12/2020
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+The project is about bike shares. It asks the user to choose filters based on the city , month , and day of bike renting information.
 
 ### Files used
-Include the files used
+chicago.csv, washington.csv , new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity class room.
